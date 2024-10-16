@@ -16,6 +16,6 @@ Ligas mas populares:
   
         -Primera División de Argentina
   
-         -Ligue 1 en Francia
+        -Ligue 1 en Francia
   
         -Primeira Liga en Portugal
