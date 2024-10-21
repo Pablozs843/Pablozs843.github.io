@@ -1,6 +1,6 @@
 ---
 title: Fútbol
-layout: Introducción
+layout: home
 ---
 
 ![image](https://github.com/user-attachments/assets/14920d7f-215e-492b-841f-ecd637f098b7)
